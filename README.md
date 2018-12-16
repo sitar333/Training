@@ -1,2 +1,0 @@
-# Training
-samples for learning
